@@ -4,14 +4,21 @@ Technology and innovation leader focused on helping organizations make better de
 My work spans strategy, analytics, product development, organizational transformation, and the design of scalable platforms that improve how people discover information, generate insights, and solve complex problems.
 
 **Areas of interest:**
+ 
+ -Innovation Strategy
 
-    Innovation Strategy
-    Data & Analytics
-    Decision Intelligence
-    Knowledge Platforms
-    Emerging Technologies
-    Forecasting & Future Trends
-    Product Thinking
-    Change Leadership
+-Data & Analytics
+
+-Decision Intelligence
+
+-Knowledge Platforms
+
+-Emerging Technologies
+
+-Forecasting & Future Trends
+
+-Product Thinking
+
+-Change Leadership
 
 Always learning. Always building.
