@@ -7,12 +7,19 @@ Over the past decade, I've worked across data science, analytics, and AI transfo
 **Areas of Interest:**
 
 Enterprise AI & GenAI
+
 Retrieval-Augmented Generation (RAG)
+
 Semantic Search & Information Retrieval
+
 AI Strategy & Transformation
+
 Knowledge Platforms
+
 Forecasting & Decision Intelligence
-Current Focus
+
+**Current Focus**
+
 Exploring how AI can augment knowledge work, accelerate research, and drive measurable business outcomes.
 
 Connect
