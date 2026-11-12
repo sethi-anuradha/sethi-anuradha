@@ -1,26 +1,17 @@
 Hi, I'm **Anuradha Sethi**
+Technology and innovation leader focused on helping organizations make better decisions, work more effectively, and create value from data, knowledge, and emerging technologies.
 
-AI and Data leader focused on building enterprise intelligence platforms and helping organizations unlock value from AI at scale.
+My work spans strategy, analytics, product development, organizational transformation, and the design of scalable platforms that improve how people discover information, generate insights, and solve complex problems.
 
-Over the past decade, I've worked across data science, analytics, and AI transformation, leading initiatives spanning GenAI, semantic search, forecasting, knowledge discovery, and enterprise intelligence platforms.
+**Areas of interest:**
 
-**Areas of Interest:**
+    Innovation Strategy
+    Data & Analytics
+    Decision Intelligence
+    Knowledge Platforms
+    Emerging Technologies
+    Forecasting & Future Trends
+    Product Thinking
+    Change Leadership
 
-Enterprise AI & GenAI
-
-Retrieval-Augmented Generation (RAG)
-
-Semantic Search & Information Retrieval
-
-AI Strategy & Transformation
-
-Knowledge Platforms
-
-Forecasting & Decision Intelligence
-
-**Current Focus**
-
-Exploring how AI can augment knowledge work, accelerate research, and drive measurable business outcomes.
-
-Connect
-LinkedIn: www.linkedin.com/in/anuradha-sethi-295b77b2
+Always learning. Always building.
